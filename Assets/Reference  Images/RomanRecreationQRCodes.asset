@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RomanRecreationQRCodes
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4689643055241529427
+  m_GuidHigh: 8979095529122860990
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5648891943232827506
+      m_GuidHigh: 9836161822257948316
+    m_SerializedTextureGuid:
+      m_GuidLow: 7157494073078588961
+      m_GuidHigh: 18295172905221659435
+    m_Size: {x: 0.075, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: Teutoburg-Forest
+    m_Texture: {fileID: 2800000, guid: fbd0262186ef63542b9b1648d382e5fd, type: 3}
